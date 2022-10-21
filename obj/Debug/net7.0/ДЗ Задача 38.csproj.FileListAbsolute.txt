@@ -1,0 +1,15 @@
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.csproj.AssemblyReference.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.AssemblyInfoInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.AssemblyInfo.cs
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.csproj.CoreCompileInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\bin\Debug\net7.0\ДЗ Задача 38.exe
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\bin\Debug\net7.0\ДЗ Задача 38.deps.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\bin\Debug\net7.0\ДЗ Задача 38.runtimeconfig.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\bin\Debug\net7.0\ДЗ Задача 38.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\bin\Debug\net7.0\ДЗ Задача 38.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\refint\ДЗ Задача 38.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ДЗ Задача 38.genruntimeconfig.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 38\obj\Debug\net7.0\ref\ДЗ Задача 38.dll
